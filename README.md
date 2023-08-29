@@ -33,8 +33,6 @@ Space - Jump
 Esc - Return to menu
 
 ## Instalation
-Project was created in Unity 2021.3.11f1
+Download and unzip the file and inside launch UpSideDown.exe in order to start the game.
 
-If you are interested in viewing the Unity project please install the correct version.
-
-Build is work in progress.
+Be mindful of any bugs and glitches. The game is still in development.
